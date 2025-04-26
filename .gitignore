@@ -1,0 +1,7 @@
+.env
+
+/spoyt-venv
+
+/client_secret.json
+
+/token.json
