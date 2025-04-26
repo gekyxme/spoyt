@@ -76,6 +76,5 @@ Replace `YOUR_SPOTIFY_PLAYLIST_ID` and `YOUR_YOUTUBE_PLAYLIST_ID` with your real
 
 ---
 
-- `.env` and `client_secret.json` must not be committed.
 - Quota errors reset after 24 hours.
 - Playlist IDs should not include `?si=...` or extra URL parameters.
